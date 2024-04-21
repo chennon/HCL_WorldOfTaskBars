@@ -8,16 +8,12 @@
 
 What is HCL World of Task Bars?
 ===============================================================================================================================
-HWoTB is a desktop toolbar. Running in the MS Windows 10/11 environment.
-**H**ennon Consulting, LLC
-
- **W**World
- 
-  **o**f
-  
-   **T**Task
-   
-    **B**ars
+HWoTB is a desktop toolbar. Running in the MS Windows 10/11 environment.  
+**H**ennon Consulting, LLC  
+ **W**World  
+  **o**f  
+   **T**Task  
+    **B**ars  
 
 
 ![Preview](metadata/screenshots/preview.png)
@@ -33,3 +29,5 @@ Build with Microsoft Visual Studio 2022
 Download
 -------------------------------
 [![Download HCL_WorldOfTaskBars](https://a.fsdn.com/con/app/sf-download-button)](https://hennonconsulting.com/software/download/HCL_WorldOfTaskBars.msi)
+![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/:extensionId)
+
