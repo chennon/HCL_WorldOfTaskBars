@@ -1,21 +1,80 @@
-MIT License
+HCL License
 
-Copyright (c) 2018 Linkbar
+Copyright (c) 2004->2024 Hennon Consulting, LLC
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Hennon Consulting, LLC - Abbreviated as HCL
+321 High School Rd
+Bainbridge Island, WA
+98100
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Software License Agreement for all HCL Software that does not include a specific licens for that software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+1. This is an agreement between HCL, a Washington State Company and Licensee, who is being licensed to use the HCL Software.
+
+2. Licensee acknowledges that this is only a limited nonexclusive license. HCL is and remains the owner of all titles, rights, and interests in the HCL Software.
+
+3. This License permits Licensee to install the HCL Software on more than one computer system, as long as the HCL Software will not be used on more than one computer system simultaneously. Licensee will not make copies of the HCL Software or allow copies of the Software to be made by others, unless authorized by this License Agreement. Licensee may make copies of the Software for backup purposes only.
+
+4. This Software is not subject to a warranty of any kind. In fact, it is to be used at own risk. HCL requires this warranty statement in all code and anywhere else possible to include with the software. To the extent permitted by law, WARNING!!!:  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. No agent of HCL is authorized to make any other warranties or to make a warranty.
+
+5. In case of a breach of the License, Licensee's exclusive duty is as follows: Licensee will return all copies of the Software to HCL, at Licensee's cost, along with proof of removal.
+
+6. Notwithstanding the foregoing, LICENSOR IS NOT LIABLE TO LICENSEE FOR ANY DAMAGES, INCLUDING COMPENSATORY, SPECIAL, INCIDENTAL, EXEMPLARY, PUNITIVE, OR CONSEQUENTIAL DAMAGES, CONNECTED WITH OR RESULTING FROM THIS LICENSE AGREEMENT OR LICENSEE'S USE OF THIS SOFTWARE. Licensee's jurisdiction may not allow such a limitation of damages, so this limitation may not apply.
+
+7. Licensee agrees to defend and indemnify HCL and hold HCL harmless from all claims, losses, damages, complaints, or expenses connected with or resulting from Licensee's business operations.
+
+8. HCL has the right to terminate this License Agreement and Licensee's right to use this Software upon any material breach by Licensee or any other time.
+
+9. Licensee agrees to return to HCL or to destroy all copies of the Software upon termination of the License.
+
+10. This License Agreement is the entire and exclusive agreement between HCL and Licensee regarding this HCL Software. This License Agreement replaces and supersedes all prior negotiations, dealings, and agreements between HCL and Licensee regarding this HCL Software.
+
+11. This License Agreement is governed by the law of state of Washington applicable to Washington contracts. Then by any applicable laws of the United States of America.
+
+12. This License Agreement is valid without HCL's signature. It becomes effective upon the earlier of Licensee's signature or Licensee's use of the Software.
+
+
+Start of copyright notice
+********************************************************************************
+************************************ HCL ***************************************
+****** Berne Convention for the Protection of Literary and Artistic Works ******
+************************************ HCL ***************************************
+********************************************************************************
+* ==============================================================================
+* CHARLES G. HENNON CONFIDENTIAL
+* HENNON CONSULTING, LLC CONFIDENTIAL
+* ==============================================================================
+*
+*  Copyright ©[2004] - [2024] Hennon Consulting, LLC
+*  All Rights Reserved.
+
+* NOTICE:  All information contained herein is, and remains the property of 
+* Hennon Consulting, LLC abbreviated from here on as HCL, Charles G. Hennon 
+* abbreviated from here on as CGH and his suppliers, if any.  The intellectual 
+* and technical concepts contained herein are proprietary and belong to HCL and
+* /or CGH and his suppliers and is covered by U.S. and Foreign Patents, patents
+* in process and are protected by trade secret or copyright law. Dissemination 
+* of this information or reproduction of this material is strictly forbidden 
+* unless prior written permission is obtained from HCL and/or CGH. 
+*
+*
+********************************** WARNING!!! **********************************
+********************************** WARNING!!! **********************************
+********************************** WARNING!!! **********************************
+* WARNING!!!:  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, 
+* EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF 
+* MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO 
+* EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES
+* OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, 
+* ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
+* DEALINGS IN THE SOFTWARE.
+********************************** WARNING!!! **********************************
+********************************** WARNING!!! **********************************
+********************************** WARNING!!! **********************************
+********************************************************************************
+************************************ HCL ***************************************
+****** Berne Convention for the Protection of Literary and Artistic Works ******
+************************************ HCL ***************************************
+*******************************************************************************/
+end of copyright notice
+
