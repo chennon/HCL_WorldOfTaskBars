@@ -1,26 +1,31 @@
 
 
+https://img.shields.io/badge/The_Best_of_the_Best_...._With_Honors-blue
 
-![Delphi](https://img.shields.io/badge/Delphi-10.3_CE-red.svg)
-![Windows](https://img.shields.io/badge/Windows-Vista--10-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)
-
-
-What is Linkbar ?
+![Windows](https://img.shields.io/badge/Windows-10-blue.svg)
+https://img.shields.io/badge/Version🇰🇾-blue
+https://img.shields.io/badge/Version🥇-blue
+https://img.shields.io/badge/Version:_1.1.6.tbn444-orange
+What is HCL World of Task Bars?
 ===============================
-Linkbar is a free source code desktop toolbar. Running in the MS Windows Vista+ environment, its use is governed by
-MIT License.
+HWoTB is a desktop toolbar. Running in the MS Windows 10/11 environment.
+**H**ennon Consulting, LLC
+ **W**World
+  **o**f
+   **T**Task
+    **B**ars
+
 
 ![Preview](metadata/screenshots/preview.png)
 
 Description
 -------------------------------
-See [README.txt](https://github.com/ATGH15102AFMLD/Linkbar/blob/master/exe/README.txt)
+See [README.txt](https://github.com/chennon/HCL_WorldOfTaskBars/blob/master/exe/README.txt)
 
 Build
 -------------------------------
-Build with Embarcadero Delphi 10.3 Community Edition or higher
+Build with Microsoft Visual Studio 2022
 
 Download
 -------------------------------
-[![Download Linkbar](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/linkbar/files/latest/download)
+[![Download HCL_WorldOfTaskBars](https://a.fsdn.com/con/app/sf-download-button)](https://hennonconsulting.com/software/download/HCL_WorldOfTaskBars.msi)
