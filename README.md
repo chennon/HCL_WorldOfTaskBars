@@ -6,15 +6,14 @@
 ![Windows](https://img.shields.io/badge/Windows-11-blue.svg)
 ![Windows](https://img.shields.io/badge/Version:_1.1.6.tbn444-orange.svg)
 
-What is HCL World of Task Bars?
+What is HCL World of Task Bars(HWoTB)?
 ===============================================================================================================================
-HWoTB is a desktop toolbar. Running in the MS Windows 10/11 environment.  
 **H**ennon Consulting, LLC  
- **W**World  
-  **o**f  
-   **T**Task  
-    **B**ars  
-
+&nbsp**W**World  
+&nbsp&nbsp**o**f  
+&nbsp&nbsp&nbsp**T**Task  
+&nbsp&nbsp&nbsp&nbsp**B**ars  
+HWoTB is a desktop toolbar. Running in the MS Windows 10/11 environment.
 
 ![Preview](metadata/screenshots/preview.png)
 
